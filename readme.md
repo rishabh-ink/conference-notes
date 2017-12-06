@@ -1,5 +1,7 @@
+* [Chrome Dev Summit 2017](#chrome-dev-summit-2017)
+
 # Chrome Dev Summit 2017
-https://developer.chrome.com/devsummit/
+> 2017-Oct-26 | [developer.chrome.com/devsummit](https://developer.chrome.com/devsummit/)
 
 ## The future of loading on the web
 By Sam Saccone
